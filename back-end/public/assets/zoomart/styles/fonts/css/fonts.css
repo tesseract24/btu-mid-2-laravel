@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "BPGGEL";
+  src: url("../fonts/BPGGELv2.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/BPGGELv2d41d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/BPGGELv2.otf") format("opentype"), /* Open Type Font */
+  url("../fonts/BPGGELv2.svg") format("svg"), /* Legacy iOS */
+  url("../fonts/BPGGELv2.ttf") format("truetype"), /* Safari, Android, iOS */
+  url("../fonts/BPGGELv2.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/BPGGELv2.html") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BPGDejaVuSans";
+  src: url("../fonts/BPGDejaVuSans.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/BPGDejaVuSansd41d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/BPGDejaVuSans.otf") format("opentype"), /* Open Type Font */
+  url("../fonts/BPGDejaVuSans.svg") format("svg"), /* Legacy iOS */
+  url("../fonts/BPGDejaVuSans.ttf") format("truetype"), /* Safari, Android, iOS */
+  url("../fonts/BPGDejaVuSans.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/BPGDejaVuSans.html") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BPGArial";
+  src: url("../fonts/bpg-arial-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/bpg-arial-webfontd41d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/bpg-arial-webfont.otf") format("opentype"), /* Open Type Font */
+  url("../fonts/bpg-arial-webfont.svg") format("svg"), /* Legacy iOS */
+  url("../fonts/bpg-arial-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+  url("../fonts/bpg-arial-webfont.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/bpg-arial-webfont.html") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BPGWeb002Caps";
+  src: url("../fonts/bpg-web-002-caps-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/bpg-web-002-caps-webfontd41d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/bpg-web-002-caps-webfont.otf") format("opentype"), /* Open Type Font */
+  url("../fonts/bpg-web-002-caps-webfont.svg") format("svg"), /* Legacy iOS */
+  url("../fonts/bpg-web-002-caps-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+  url("../fonts/bpg-web-002-caps-webfont.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/bpg-web-002-caps-webfont.html") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
